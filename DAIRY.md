@@ -8,3 +8,8 @@
 
 - Keywords: **loupe**
   http://latentflip.com/loupe
+
+### 28/Aug/2023
+
+- How does JSX works?
+- Component in React
