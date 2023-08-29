@@ -13,3 +13,5 @@
 
 - How does JSX works?
 - Component in React
+### 29/Aug/2023
+- Hooks in React
