@@ -19,5 +19,5 @@ setPerson({age: 25}) // {age: 25}
 - Side effects: Call API, DOM event, Subscription, setTimeOut, setInterval
 - 2 types: need to cleanup and no need to cleanup
 - UseEffect:
-    - Excute after each render
-    - Cleanup function is excuted before the next render or unmount
+    - Execute after each render
+    - Cleanup function is executed before the next render or unmount

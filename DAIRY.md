@@ -15,3 +15,9 @@
 - Component in React
 ### 29/Aug/2023
 - Hooks in React
+- Next.js Routing
+
+### 05/ Sep/2023
+- Server component and Client component
+- Server side rendering
+
